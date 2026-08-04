@@ -1,4 +1,4 @@
-VOLUME I
+ VOLUME I
 
 Learning to Think Like a Quantitative Engineer
 
@@ -12,6 +12,7 @@ Objective
 
 Transform mathematical ideas into elegant software.
 
+----------------------------------------------------
 
   Research Log
 
@@ -30,8 +31,8 @@ Transform mathematical ideas into elegant software.
 - Machine Learning
 
 - Quantitative Finance
-  
 
+---------------------------------
    Current Investigation
 
 Quant Research Lab
@@ -49,7 +50,7 @@ Current Topics
 • Expected Value
 
 • Monte Carlo
-
+---------------------------------
 
    Archive
 
@@ -85,9 +86,9 @@ Planned
 Project Euler Notebook
 
 Status
-Planned
+Planned 
 
-
+-------------------------------------
   Current Shelf
 
 James Stewart
