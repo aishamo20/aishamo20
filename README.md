@@ -1,51 +1,101 @@
-<div align="center">
+VOLUME I
 
-# 🧪 Aisha's Quant Lab
+Learning to Think Like a Quantitative Engineer
 
-### Building software with mathematics, curiosity and code.
+Status
+- In Progress
 
-*A long-term collection of experiments exploring probability, algorithms, machine learning and quantitative thinking.*
+Started
+August 2026
 
----
+Objective
 
-## 🔬 Current Experiment
+Transform mathematical ideas into elegant software.
 
-### Experiment 001 — Quant Research Lab
 
-**Status:** 🟢 Active
+  Research Log
 
-Learning how mathematics and software come together through simulation, problem solving and elegant code.
+- Python Foundations
 
-</div>
+- Git & GitHub
 
----
+-  Calculus
 
-# 📖 Research Areas
+-  Probability
 
-- 🎲 Probability & Statistics
-- 🧠 Algorithms & Data Structures
-- 🐍 Python
-- 📈 Quantitative Finance
-- 🤖 Machine Learning
+-  Linear Algebra
 
----
+-  Algorithms
 
-# 🧪 Active Experiments
+- Machine Learning
 
-| ID | Experiment | Status |
-|:---:|------------|:------:|
-| 001 | Quant Research Lab | 🟢 Active |
-| 002 | Probability Simulations | 🔜 Planned |
-| 003 | Algorithm Visualiser | 🔜 Planned |
-| 004 | Market Simulator | 🔜 Planned |
-| 005 | Machine Learning Playground | 🔜 Planned |
+- Quantitative Finance
+  
 
----
+   Current Investigation
 
-# 🎯 Mission
+Quant Research Lab
 
-> Build software that demonstrates mathematical thinking, elegant problem solving and continuous learning.
+Question?
 
----
+Can randomness become predictable through simulation?
 
-*"Every expert was once someone willing to run their first experiment."*
+Current Topics
+
+• Coin Tosses
+
+• Dice
+
+• Expected Value
+
+• Monte Carlo
+
+
+   Archive
+
+001
+
+Quant Research Lab
+
+Status
+Building
+
+---------------------
+
+002
+
+Algorithm Atlas
+
+Status
+Researching
+
+----------------------
+
+003
+
+Machine Learning Journal
+
+Status
+Planned
+
+-----------------------
+
+004
+
+Project Euler Notebook
+
+Status
+Planned
+
+
+  Current Shelf
+
+James Stewart
+
+Probability
+
+Concrete Mathematics
+
+The Algorithm Design Manual
+
+Thinking Fast and Slow
