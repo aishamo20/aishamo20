@@ -19,11 +19,11 @@ Algorithms and Problem Solving
 
 Projects:
 
--- Hospital Management System — Python, Object-Oriented Programming
+ Hospital Management System — Python, Object-Oriented Programming
 
--- StudySync — Smart study environment developed as part of a university innovation project
+ StudySync — Smart study environment developed as part of a university innovation project
 
--- E-Skin Technology Website — HTML, CSS
+ E-Skin Technology Website — HTML, CSS
 
 Education:
 
