@@ -1,14 +1,14 @@
 Hi, I'm Aisha
 I'm a first-year Computer Science student at Aston University with an interest in quantitative finance, software engineering, artificial intelligence and problem solving.
 
-Technical Skills
+Technical Skills:
 
 Languages: Python, Java, C, JavaScript, SQL
 Web: HTML, CSS
 Tools: Git, GitHub, Linux, Jenkins, Google Cloud Platform, VS Code
 Core: Data Structures & Algorithms, Object-Oriented Programming, Computer Systems, Artificial Intelligence
 
-Interests
+Interests:
 
 Quantitative Finance
 Algorithmic Trading
@@ -17,7 +17,7 @@ Software Engineering
 Machine Learning and AI
 Algorithms and Problem Solving
 
-Projects
+Projects:
 
 -- Hospital Management System — Python, Object-Oriented Programming
 
@@ -25,12 +25,12 @@ Projects
 
 -- E-Skin Technology Website — HTML, CSS
 
-Education
+Education:
 
 Aston University
 BSc Computer Science | 2025–2028
 
-Currently Learning
+Currently Learning:
 
 Data Structures & Algorithms
 Probability & Statistics
