@@ -1,103 +1,38 @@
- VOLUME I
+Hi, I'm Aisha
+I'm a first-year Computer Science student at Aston University with an interest in quantitative finance, software engineering, artificial intelligence and problem solving.
 
-Learning to Think Like a Quantitative Engineer
+Technical Skills
+Languages: Python, Java, C, JavaScript, SQL
+Web: HTML, CSS
+Tools: Git, GitHub, Linux, Jenkins, Google Cloud Platform, VS Code
+Core: Data Structures & Algorithms, Object-Oriented Programming, Computer Systems, Artificial Intelligence
 
-Status
-- In Progress
+Interests
+Quantitative Finance
+Algorithmic Trading
+Quantitative Research
+Software Engineering
+Machine Learning and AI
+Algorithms and Problem Solving
 
-Started
-August 2026
+Projects
+-- Hospital Management System — Python, Object-Oriented Programming
 
-Objective
+-- StudySync — Smart study environment developed as part of a university innovation project
 
-Transform mathematical ideas into elegant software.
+-- E-Skin Technology Website — HTML, CSS
 
-----------------------------------------------------
+Education
+Aston University
+BSc Computer Science | 2025–2028
 
-  Research Log
+Currently Learning
+Data Structures & Algorithms
+Probability & Statistics
+Python for quantitative analysis
+Software Engineering
+Artificial Intelligence
+Introduction to Mathematics
+CyberSecurity
 
-- Python Foundations
-
-- Git & GitHub
-
--  Calculus
-
--  Probability
-
--  Linear Algebra
-
--  Algorithms
-
-- Machine Learning
-
-- Quantitative Finance
-
----------------------------------
-   Current Investigation
-
-Quant Research Lab
-
-Question?
-
-Can randomness become predictable through simulation?
-
-Current Topics
-
-• Coin Tosses
-
-• Dice
-
-• Expected Value
-
-• Monte Carlo
-
----------------------------------
-
-   Archive
-
-001
-
-Quant Research Lab
-
-Status
-Building
-
----------------------
-
-002
-
-Algorithm Atlas
-
-Status
-Researching
-
-----------------------
-
-003
-
-Machine Learning Journal
-
-Status
-Planned
-
------------------------
-
-004
-
-Project Euler Notebook
-
-Status
-Planned 
-
--------------------------------------
-  Current Shelf
-
-James Stewart
-
-Probability
-
-Concrete Mathematics
-
-The Algorithm Design Manual
-
-Thinking Fast and Slow
+I'm currently building my technical and quantitative skills through university projects, programming and independent learning.
