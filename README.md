@@ -10,12 +10,12 @@ Core: Data Structures & Algorithms, Object-Oriented Programming, Computer System
 
 Interests:
 
-Quantitative Finance
-Algorithmic Trading
-Quantitative Research
-Software Engineering
-Machine Learning and AI
-Algorithms and Problem Solving
+- Quantitative Finance
+- Algorithmic Trading
+- Quantitative Research
+- Software Engineering
+- Machine Learning and AI
+- Algorithms and Problem Solving
 
 Projects:
 
@@ -28,16 +28,16 @@ Projects:
 Education:
 
 Aston University
-BSc Computer Science | 2025–2028
+BSc Computer Science:  2026–2030
 
 Currently Learning:
 
-Data Structures & Algorithms
-Probability & Statistics
-Python for quantitative analysis
-Software Engineering
-Artificial Intelligence
-Introduction to Mathematics
-CyberSecurity
+- Data Structures & Algorithms
+- Probability & Statistics
+- Programming
+- Software Engineering
+- Artificial Intelligence
+- Introduction to Mathematics
+- CyberSecurity
 
 I'm currently building my technical and quantitative skills through university projects, programming and independent learning.
