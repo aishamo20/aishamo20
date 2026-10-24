@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" width="100%" alt="Aisha Mohamed banner">
+</p>
+
 Hi, I'm Aisha
 I'm a first-year Computer Science student at Aston University with an interest in quantitative finance, software engineering, artificial intelligence and problem solving.
 
