@@ -1,6 +1,4 @@
-   ## P(Aisha finds a solution) ≈ 1
-
-   *probably calculating the odds*
+ <img src="banner2.svg" width="100%" alt="P(Aisha finds a solution) ≈ 1">
 
 ```
 
