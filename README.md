@@ -1,4 +1,4 @@
- <img src="banner2.svg" width="100%" alt="P(Aisha finds a solution) ≈ 1">
+ <img src="banner(2).svg" width="100%" alt="P(Aisha finds a solution) ≈ 1">
 
 ```
 
