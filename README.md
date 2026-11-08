@@ -8,6 +8,8 @@ drawn_to: puzzles, probability, algorithms
 
 goal:     quant / tech
 
+prepping: IMC (uni maths competition)
+
 ```
 
 ### Toolkit
